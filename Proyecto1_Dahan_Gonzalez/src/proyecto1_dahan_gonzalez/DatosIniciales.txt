@@ -1,0 +1,13 @@
+tiempoDia:          5    
+tiempoDespacho:     20            
+almRuedas:          30             
+almParabrisas:      25            
+almMotor:           15             
+provInicialR:       2              
+provInicialP:       2          
+provInicialM:       1          
+maxProvR:           4             
+maxProvP:           3              
+maxProvM:           3             
+ensInicial:         3                
+maxEnsambl:          5   
